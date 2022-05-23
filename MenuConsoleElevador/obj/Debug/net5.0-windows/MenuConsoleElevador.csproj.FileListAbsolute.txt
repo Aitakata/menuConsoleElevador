@@ -1,0 +1,16 @@
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0-windows\MenuConsoleElevador.exe
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0-windows\MenuConsoleElevador.deps.json
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0-windows\MenuConsoleElevador.runtimeconfig.json
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0-windows\MenuConsoleElevador.runtimeconfig.dev.json
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0-windows\MenuConsoleElevador.dll
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0-windows\MenuConsoleElevador.pdb
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\MenuConsoleElevador.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\MenuConsoleElevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\MenuConsoleElevador.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\MenuConsoleElevador.AssemblyInfo.cs
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\MenuConsoleElevador.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\MenuConsoleElevador.dll
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\refint\MenuConsoleElevador.dll
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\MenuConsoleElevador.pdb
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\MenuConsoleElevador.genruntimeconfig.cache
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0-windows\ref\MenuConsoleElevador.dll

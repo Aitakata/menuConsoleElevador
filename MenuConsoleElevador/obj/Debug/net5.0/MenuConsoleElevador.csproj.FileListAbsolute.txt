@@ -1,0 +1,16 @@
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0\MenuConsoleElevador.exe
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0\MenuConsoleElevador.deps.json
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0\MenuConsoleElevador.runtimeconfig.json
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0\MenuConsoleElevador.runtimeconfig.dev.json
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0\MenuConsoleElevador.dll
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\bin\Debug\net5.0\MenuConsoleElevador.pdb
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\MenuConsoleElevador.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\MenuConsoleElevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\MenuConsoleElevador.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\MenuConsoleElevador.AssemblyInfo.cs
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\MenuConsoleElevador.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\MenuConsoleElevador.dll
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\refint\MenuConsoleElevador.dll
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\MenuConsoleElevador.pdb
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\MenuConsoleElevador.genruntimeconfig.cache
+C:\Users\artur\source\repos\MenuConsoleElevador\MenuConsoleElevador\obj\Debug\net5.0\ref\MenuConsoleElevador.dll
