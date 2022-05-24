@@ -74,7 +74,7 @@ namespace MenuConsoleElevador.Model
             } else
             {
                 this.NroPessoas++;
-                Console.WriteLine("\nAgora o estamos com {0} pessoas no elevador",
+                Console.WriteLine("\nAgora estamos com {0} pessoas no elevador",
                     this.NroPessoas);
             }
         }
@@ -84,7 +84,7 @@ namespace MenuConsoleElevador.Model
             if (this.NroPessoas != 0)
             {
                 this.NroPessoas--;
-                Console.WriteLine("\nAgora o estamos com {0} pessoas no elevador",
+                Console.WriteLine("\nAgora estamos com {0} pessoas no elevador",
                     this.NroPessoas);
             }
             else
